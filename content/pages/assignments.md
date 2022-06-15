@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides potential paper topics for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: b8d066ce-dec5-acb6-1e5e-7964df8559e5
 ---
