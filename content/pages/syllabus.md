@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, required texts, and online intelligence resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bb1102c8-ee3c-5b21-0263-5c00bc0d29a5
 ---
