@@ -33,8 +33,8 @@ An in-depth look at the organization and functions of the intelligence community
 
 ## Online Intel Resources
 
-[The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments](http://intellit.muskingum.edu/index.html), compiled by J. Ransom Clark of Muskingum College, is an exhaustive online compendium of intelligence literature divided by author and topic.
+{{% resource_link "d48ead6d-207b-4c76-9f1a-940ffafdce79" "The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments" %}}, compiled by J. Ransom Clark of Muskingum College, is an exhaustive online compendium of intelligence literature divided by author and topic.
 
-The CIA’s [Center for the Study of Intelligence](https://www.cia.gov/resources/csi/) publishes unclassified articles and conference proceedings.
+The CIA’s {{% resource_link "c028e84c-7186-41a0-bdf7-bd79468148dc" "Center for the Study of Intelligence" %}} publishes unclassified articles and conference proceedings.
 
-[The Federation of American Scientists](http://www.fas.org/) and the [National Security Archive](http://www.gwu.edu/~nsarchiv/) also maintain useful web sites on intelligence topics.
+{{% resource_link "712bdeb2-c01d-41de-b040-2fe9619b7917" "The Federation of American Scientists" %}} and the {{% resource_link "73ab0570-12df-464f-9830-11dde33ffaba" "National Security Archive" %}} also maintain useful web sites on intelligence topics.
